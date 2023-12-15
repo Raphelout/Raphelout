@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Raphelout
-- 👀 I’m interested in game programming
-- 🌱 I’m currently learning OOP in java
-- 💞️ I’m looking to collaborate on nothing :)
-- 📫 How to reach me with my ID Lautes on discord
+interested in game programming and back-end web
+I’m looking to collaborate on open source projects
+Discord: Lautes
 
