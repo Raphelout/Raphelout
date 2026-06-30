@@ -1,9 +1,25 @@
-<h1 align="center">Hi, I'm Raphael Bicalho</h1>
+I'm a software developer focused mainly on **C#**, **.NET**, and web systems.
+Currently studying **Computer Science at UFMG** and working at **GlobalCad**.
 
-##
+I’m also learning more about **web security** and secure software development.
 
-![csharp](https://img.shields.io/badge/Csharp-231025?style=for-the-badge&logo=csharp&logoColor=purple)
-![javascript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-f52525?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-444457?style=for-the-badge&logo=unity&logoColor=white)
+
+
+## Current stack
+C#, .NET, SQL Server
+
+## Currently learning
+* Web security
+* Secure coding
+* Application security basics
+* HTTP, authentication, and sessions
+
+## Project
+
+### [Cats & Dungeons](https://github.com/TP-Coltec-UFMG/2024_303_CatsAndDungeons)
+
+Academic game project developed during my technical course at **COLTEC-UFMG**.
+
+---
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Raphelout&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Raphelout&langs_count=4&theme=dark)
