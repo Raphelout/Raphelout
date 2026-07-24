@@ -1,5 +1,5 @@
 I'm a software developer focused mainly on **C#**, **.NET**, and web systems.
-Currently studying **Computer Science at UFMG** and working at **GlobalCad**.
+Currently studying **Computer Science at UFMG**
 
 I’m also learning more about **web security** and secure software development.
 
@@ -17,7 +17,6 @@ C#, .NET, SQL Server
 ## Project
 
 ### [Cats & Dungeons](https://github.com/TP-Coltec-UFMG/2024_303_CatsAndDungeons)
-
 Academic game project developed during my technical course at **COLTEC-UFMG**.
 
 ---
