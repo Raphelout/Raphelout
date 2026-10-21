@@ -10,9 +10,7 @@ C#, .NET, SQL Server
 
 ## Currently learning
 * Web security
-* Secure coding
 * Application security basics
-* HTTP, authentication, and sessions
 
 ## Project
 
